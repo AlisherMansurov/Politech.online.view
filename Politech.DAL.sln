@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Politech.DAL", "Politech.DAL\Politech.DAL.csproj", "{C60E0492-96EA-4D15-902F-5BDAC8E380FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Politech.online.view", "Politech.online.view\Politech.online.view.csproj", "{7F445B7C-F528-4F7E-8E72-FC1FA3798295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60E0492-96EA-4D15-902F-5BDAC8E380FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E0492-96EA-4D15-902F-5BDAC8E380FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E0492-96EA-4D15-902F-5BDAC8E380FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E0492-96EA-4D15-902F-5BDAC8E380FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F445B7C-F528-4F7E-8E72-FC1FA3798295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F445B7C-F528-4F7E-8E72-FC1FA3798295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F445B7C-F528-4F7E-8E72-FC1FA3798295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F445B7C-F528-4F7E-8E72-FC1FA3798295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027F5B19-9958-4D2E-87C2-27B4AE60F8DA}
+	EndGlobalSection
+EndGlobal
